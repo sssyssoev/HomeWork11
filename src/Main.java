@@ -8,6 +8,7 @@ public class Main {
         task1();
         task2();
         task3();
+        System.out.println(" Попытка сдать 11-е ДЗ");
     }
 
     public static int enterInt(String str) {
